@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-testing",
+      "title": "Testes Automatizados com pytest",
+      "description": "Escreva e execute testes automatizados em Python com pytest, incluindo parametrização e validação de exceções.",
+      "path": "assignments/python-testing",
+      "dueDate": "2026-11-11"
     }
   ]
 }
